@@ -13,7 +13,7 @@ info:
 
     # Resource
 
-    The default endpoint has a resource field, this field indicates what resource your token should be generated for example, recurring and invoice. The following resources are currently available
+    The default endpoint has a resource field, this field indicates what resource your token should be generated for, for example, recurring and invoice. The following resources are currently available
 
 
   ```
